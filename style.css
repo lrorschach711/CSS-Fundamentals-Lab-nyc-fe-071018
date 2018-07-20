@@ -30,5 +30,10 @@ p#featured-property {
 
 #details {
   display: block;
-  
+  background: red;
+  text-align: center;
+}
+
+#details div {
+  width: 25%;
 }
