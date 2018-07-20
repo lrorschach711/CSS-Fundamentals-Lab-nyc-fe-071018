@@ -36,4 +36,5 @@ p#featured-property {
 
 #details div {
   width: 25%;
+  float: left;
 }
