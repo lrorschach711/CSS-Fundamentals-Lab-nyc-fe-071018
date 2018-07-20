@@ -12,11 +12,12 @@ figure {
   text-align: center;
 }
 
-figcaption {
-  text-align: center;
-  font-size: 
-}
-
 nav {
   
 }
+
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+
